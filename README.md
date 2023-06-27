@@ -10,10 +10,10 @@
     <a href="https://twitter.com/rayhan_tweet" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="rayhan_tweet" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/in/rayhan-ahmed-33032a233" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/in/ai-rayhan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="in/rayhan-ahmed-33032a233" height="30" width="40" /></a>
-    <a href="https://fb.com/profile.php?id=100082955475688" target="blank"><img align="center"
+    <a href="https://fb.com/developerrayhan.fb" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="profile.php?id=100082955475688" height="30" width="40" /></a>
 </p>
@@ -52,12 +52,12 @@
             alt="python" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-pro-dev&show_icons=true&locale=en&layout=compact"
-        alt="rayhan-pro-dev" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan&show_icons=true&locale=en&layout=compact"
+        alt="ai-rayhan" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=rayhan-pro-dev&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=ai-rayhan&show_icons=true&locale=en"
         alt="rayhan-pro-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-pro-dev&"
-        alt="rayhan-pro-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-rayhan&"
+        alt="ai-rayhan" /></p>
