@@ -50,6 +50,3 @@
         alt="ai-rayhan" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-rayhan&"
-        alt="ai-rayhan" /></p>
