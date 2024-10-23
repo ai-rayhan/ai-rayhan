@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **rayhanahmed1127@gmail.com**
+- How to reach me **rayhanahmed1127@gmail.com**
+- Whatsapp- **+8801645618975**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,8 +49,10 @@
             alt="css3" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan&show_icons=true&locale=en&layout=compact"
-        alt="ai-rayhan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan&show_icons=true&locale=en&layout=compact" alt="ai-rayhan" />
+  <img src="https://streak-stats.demolab.com/?user=ai-rayhan" alt="GitHub streak stats" />
+</p>
+
 
 
