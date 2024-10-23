@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Django**
 
 - How to reach me **rayhanahmed1127@gmail.com**
-- Whatsapp- **+8801645618975**
+- Whatsapp **+8801645618975**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
