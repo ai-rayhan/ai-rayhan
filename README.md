@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan Ahmed Imran</h1>
-<h3 align="center">A passionate flutter developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Flutter Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Django**
 
