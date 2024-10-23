@@ -50,9 +50,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan&show_icons=true&locale=en&layout=compact" alt="ai-rayhan" />
-  <img src="https://streak-stats.demolab.com/?user=ai-rayhan" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan&show_icons=true&locale=en&layout=compact" alt="ai-rayhan" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ai-rayhan" alt="GitHub streak stats" height="150" />
 </p>
+
 
 
 
