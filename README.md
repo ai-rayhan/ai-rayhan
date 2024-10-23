@@ -49,7 +49,7 @@
             alt="css3" width="40" height="40" /> </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan&show_icons=true&locale=en&layout=compact" alt="ai-rayhan" height="150" />
   <img src="https://streak-stats.demolab.com/?user=ai-rayhan" alt="GitHub streak stats" height="150" />
 </p>
