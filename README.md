@@ -50,8 +50,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan" alt="ai-rayhan"/>
-  <img src="https://streak-stats.demolab.com/?user=ai-rayhan" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-rayhan" alt="ai-rayhan",height=300/>
+  <img src="https://streak-stats.demolab.com/?user=ai-rayhan" alt="GitHub streak stats",height=300/>
 
 </p>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-rayhan" alt="GitHub streak stats" height="150" /> -->
